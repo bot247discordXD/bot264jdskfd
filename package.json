@@ -1,0 +1,32 @@
+{
+  "name": "sp-agency",
+  "version": "6.0.0",
+  "description": "Bot de seguridad.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ethan",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "bufferutil": "^4.0.4",
+    "cpu-stat": "^2.0.1",
+    "discord-api-types": "^0.23.1",
+    "discord.js-light": "^4.9.0",
+    "erlpack": "^0.1.3",
+    "fs": "^0.0.1-security",
+    "megadb": "^3.4.0",
+    "mongoose": "^6.5.0",
+    "ms": "^2.1.3",
+    "os": "^0.1.2",
+    "process": "^0.11.10",
+    "utf-8-validate": "^5.0.6",
+    "zlib-sync": "^0.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^7.25.0"
+  }
+}
